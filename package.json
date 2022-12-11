@@ -29,7 +29,7 @@
     "sass": "^1.24.1"
   },
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gulp": "^4.0.2",
     "nodemon": "^2.0.2"
   }
